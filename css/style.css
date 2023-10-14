@@ -272,6 +272,7 @@ body.noScroll {
 .help .icon {
   cursor: pointer;
   transition: 0.2s ease color;
+  color: #004685;
 }
 
 .help .icon svg {
