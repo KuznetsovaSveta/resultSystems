@@ -394,7 +394,7 @@ body.noScroll {
   padding: 90px 0 110px;
   color: #fff;
   margin-bottom: 30px;
-  background-image: url("img/hero-bg.jpg");
+  background-image: url("../img/hero-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
